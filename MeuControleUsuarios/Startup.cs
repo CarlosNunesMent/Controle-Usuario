@@ -27,10 +27,10 @@ namespace Meu_Controle_Usuarios
     {
       services.AddControllersWithViews();
 
-      //string connection = "Server=172.16.9.14\\CSPNIVEL02;Database=EXT;user id=sa;password=metrum2002*;Trusted_Connection=False;";
-      //services.AddDbContext<UserContext>(options => options.UseSqlServer(connection));
-      ////services.AddDbContext<MeasurementsContext>(options => options.UseSqlServer(Configuration.GetConnectionString("SIMT")));
-      //services.AddEntityFrameworkSqlServer().AddDbContext<UserContext>(options => options.UseSqlServer(Configuration.GetConnectionString("SIMT")));
+      string connection = "Server=172.16.9.14\\CSPNIVEL02;Database=EXT;user id=sa;password=metrum2002*;Trusted_Connection=False;";
+      services.AddDbContext<UserContext>(options => options.UseSqlServer(connection));
+      //services.AddDbContext<MeasurementsContext>(options => options.UseSqlServer(Configuration.GetConnectionString("SIMT")));
+      services.AddEntityFrameworkSqlServer().AddDbContext<UserContext>(options => options.UseSqlServer(Configuration.GetConnectionString("SIMT")));
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
