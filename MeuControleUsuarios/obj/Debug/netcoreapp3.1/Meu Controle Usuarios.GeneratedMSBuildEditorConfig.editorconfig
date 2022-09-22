@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = Meu_Controle_Usuarios
+<<<<<<< HEAD
 build_property.ProjectDir = C:\UsuariosApi\Controle-Usuario\Controle-Usuario\Meu Controle Usuarios\
+=======
+build_property.ProjectDir = C:\condominio\Controle-Usuario\MeuControleUsuarios\
+>>>>>>> a491b602511e47ff41f8b77136cfaaf62ef9ffb8
