@@ -1,0 +1,53 @@
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\Meu Controle Usuarios.exe
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\Meu Controle Usuarios.deps.json
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\Meu Controle Usuarios.runtimeconfig.json
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\Meu Controle Usuarios.runtimeconfig.dev.json
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\Meu Controle Usuarios.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\Meu Controle Usuarios.pdb
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\Meu Controle Usuarios.Views.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\Meu Controle Usuarios.Views.pdb
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.csproj.AssemblyReference.cache
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.AssemblyInfoInputs.cache
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.AssemblyInfo.cs
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.csproj.CoreCompileInputs.cache
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.RazorAssemblyInfo.cache
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.RazorAssemblyInfo.cs
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\staticwebassets\Meu Controle Usuarios.StaticWebAssets.Manifest.cache
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.TagHelpers.input.cache
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.TagHelpers.output.cache
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.RazorCoreGenerate.cache
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.RazorTargetAssemblyInfo.cache
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.RazorTargetAssemblyInfo.cs
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.Views.pdb
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.csproj.CopyComplete
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.dll
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.pdb
+C:\condominio\Controle-Usuario\Meu Controle Usuarios\obj\Debug\netcoreapp3.1\Meu Controle Usuarios.genruntimeconfig.cache
